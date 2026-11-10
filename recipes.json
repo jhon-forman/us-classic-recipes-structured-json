@@ -1,0 +1,40 @@
+[
+  {
+    "recipe_name": "Classic American Cheesy Smash Burger",
+    "prep_time_mins": 10,
+    "cook_time_mins": 8,
+    "category": "Main Course",
+    "ingredients": [
+      "1 lb ground chuck (80/20)",
+      "4 slices American cheese",
+      "4 brioche buns",
+      "Salt and black pepper to taste"
+    ],
+    "instructions": [
+      "Divide beef into 4 equal balls without overworking the meat.",
+      "Heat a cast-iron skillet over high heat until smoking hot.",
+      "Place beef balls on the skillet and smash flat immediately using a heavy spatula for 10 seconds.",
+      "Season with salt and pepper, flip when edges are crispy, add cheese, and serve."
+    ]
+  },
+  {
+    "recipe_name": "New York Style Cheesecake",
+    "prep_time_mins": 20,
+    "cook_time_mins": 60,
+    "category": "Dessert",
+    "ingredients": [
+      "2 cups graham cracker crumbs",
+      "1/3 cup melted butter",
+      "4 pkgs (8 oz each) cream cheese, softened",
+      "1 cup granulated sugar",
+      "1 tsp vanilla extract",
+      "4 large eggs"
+    ],
+    "instructions": [
+      "Mix graham crumbs and melted butter, press firmly into a springform pan.",
+      "Beat cream cheese and sugar until smooth.",
+      "Add vanilla, then add eggs one at a time just until blended.",
+      "Pour over crust and bake at 325°F (160°C) for 60 minutes until set."
+    ]
+  }
+]
